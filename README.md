@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Dayeen
-I'm a student 
-I’m currently learning Flutter 
-I’m looking to collaborate on App and web development
+I'm Dayeen\n
+I'm a student \n
+I’m currently learning Flutter \n
+I’m looking to collaborate on App and web development\n
 
 
